@@ -36,7 +36,7 @@
   "author": "Brandon Keepers",
   "license": "ISC",
   "dependencies": {
-    "@octokit/core": "^5.0.2",
+    "@octokit/core": "^6.1.5",
     "@octokit/plugin-enterprise-compatibility": "^4.0.1",
     "@octokit/plugin-paginate-rest": "^9.1.4",
     "@octokit/plugin-rest-endpoint-methods": "^10.1.5",
